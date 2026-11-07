@@ -1,7 +1,6 @@
 # Gesture Mouse
 
-Control your computer with hand gestures from an ordinary webcam. Real-time, one- and two-hand gestures,
-Vision-Pro-style **pinch-to-move** cursor, anti-jitter smoothing, hand-to-screen calibration, fully tunable.
+Control your computer with hand gestures from an ordinary webcam. Real-time, one- and two-hand gestures, **pinch-to-move** cursor, anti-jitter smoothing, hand-to-screen calibration, fully tunable.
 
 **Stack:** Python 3 · OpenCV (capture + overlay) · MediaPipe (21-point hand landmarks + handedness) ·
 PyAutoGUI (mouse / keyboard) · NumPy
