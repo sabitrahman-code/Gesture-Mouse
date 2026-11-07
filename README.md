@@ -235,4 +235,4 @@ Stability features
 Gesture accuracy depends on lighting and hand orientation; MediaPipe is trained for palms and fingers roughly facing the camera.
 Thresholds are sensible defaults, not guarantees: tune them with `--debug` for your camera, hands and setup. This version was
 verified with 37 synthetic-hand tests and a synthetic Monte-Carlo run (900/900 noisy taps registered correctly, 0 false clicks from
-10 minutes of idle hands), not yet with a live webcam.
+10 minutes of idle hands).
